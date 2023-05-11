@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE5 project/Explore/Content/StarterContent/Audio/Collapse01.uasset"
+				"D:/UE5 project/Explore/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Idle_Break.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Walk_Stop.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Crouh_Walk.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Crouch_Idle.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Locomotion/Idle_Break.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Crouch/Crouch_Idle.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Crouch/Crouh_Walk.uasset",
+				"D:/UE5 project/Explore/Content/Animations/Locomotion/Locomotion.uasset",
+				"D:/UE5 project/Explore/Content/Animations/ABP_Locomotion_for_character.uasset",
+				"D:/UE5 project/Explore/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
