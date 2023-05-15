@@ -13,3 +13,4 @@ Created a Main State Machine that will handle all the other State Machines.
 
 Changed the animation for the Character Mesh. 
 
+Added the Jumping and Landing animation, and started using 'Automatic Rule Based on Sequence' option which will do the animation transfers based on priority. (Still very new will have to look into it more)

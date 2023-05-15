@@ -2255,3 +2255,18 @@ Script Stack (0 frames) :
 [2023.05.15-19.26.53:037][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.05.15-19.26.53:066][775]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2023.05.15-19.26.55:239][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.15-19.30.17:926][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-19.30.17:958][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Locomotion_for_character" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset" SILENT=true
+[2023.05.15-19.30.18:842][390]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Locomotion_for_character
+[2023.05.15-19.30.18:843][390]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/ABP_Locomotion_for_character8B30801044A0CD1FD918BAA7FA147F6A.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset'
+[2023.05.15-19.30.18:849][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 922 ms (total: 15.6 sec)
+[2023.05.15-19.30.18:854][390]AssetCheck: New page: Asset Save: ABP_Locomotion_for_character
+[2023.05.15-19.30.18:854][390]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animations/ABP_Locomotion_for_character.ABP_Locomotion_for_character
+[2023.05.15-19.30.21:488][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-19.30.21:506][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/ABP_Locomotion_for_character" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset" SILENT=true
+[2023.05.15-19.30.22:376][703]LogSavePackage: Moving output files for package: /Game/Animations/ABP_Locomotion_for_character
+[2023.05.15-19.30.22:377][703]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/ABP_Locomotion_for_characterC213E0DA4DDFB1A7CC4DD59C0C486AEF.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset'
+[2023.05.15-19.30.22:383][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 895 ms (total: 16.5 sec)
+[2023.05.15-19.30.22:388][703]AssetCheck: New page: Asset Save: ABP_Locomotion_for_character
+[2023.05.15-19.30.22:388][703]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animations/ABP_Locomotion_for_character.ABP_Locomotion_for_character
+[2023.05.15-19.30.25:449][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
