@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
 				"D:/UE5 project/Explore/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/UE5 project/Explore/Content/Animations/Idle_Break.uasset",
 				"D:/UE5 project/Explore/Content/Animations/Walk_Stop.uasset",
