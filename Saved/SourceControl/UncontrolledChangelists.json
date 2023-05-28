@@ -7,6 +7,11 @@
 			"files": [
 				"D:/UE5 project/UE5-Game-Project/Content/Animations/ABP_Locomotion_for_character.uasset",
 				"D:/UE5 project/UE5-Game-Project/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/Animations/Crouch/Crouch_locomotion.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/Animations/Crouch/Crouh_Walk.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/UE5 project/UE5-Game-Project/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/UE5 project/Explore/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/UE5 project/Explore/Content/Animations/Idle_Break.uasset",
 				"D:/UE5 project/Explore/Content/Animations/Walk_Stop.uasset",
