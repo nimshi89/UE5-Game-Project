@@ -1952,3 +1952,111 @@ R_Canister_A_Joint2_Jnt
 [2023.06.18-17.48.47:694][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 910 ms
 [2023.06.18-17.48.47:697][190]AssetCheck: New page: Asset Save: VaultOver
 [2023.06.18-17.48.47:697][190]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/Vaulting/VaultOver.VaultOver
+[2023.06.18-17.52.55:505][540]LogContentBrowser: Deferred new asset file creation: VaultOver_Montage
+[2023.06.18-17.52.55:522][540]LogContentBrowser: Creating deferred item: VaultOver_Montage
+[2023.06.18-17.52.55:533][541]LogContentBrowser: Renaming the item being created (Deferred Item: VaultOver_Montage).
+[2023.06.18-17.53.01:343][233]LogContentBrowser: Attempting asset rename: VaultOver_Montage -> Valut_montage
+[2023.06.18-17.53.01:345][233]LogContentBrowser: End creating deferred item VaultOver_Montage
+[2023.06.18-17.53.03:297][462]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-17.53.03:376][462]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.18-17.53.03:376][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.18-17.54.55:999][646]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957455043
+[2023.06.18-17.54.55:999][646]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.06.18-17.55.05:041][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.18-17.55.05:044][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2023.06.18-17.55.05:044][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2023.06.18-17.55.05:119][673]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin]
+[2023.06.18-17.55.05:119][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2023.06.18-17.55.05:521][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto1
+[2023.06.18-17.55.05:521][673]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/SK_Mannequin_Auto1E7BFF7C04D1A571EE16DE0B496A3A04E.tmp' to 'D:/UE5 project/UE5-Game-Project/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto1.uasset'
+[2023.06.18-17.55.05:606][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Vaulting/Valut_montage] ([1] browsable assets)...
+[2023.06.18-17.55.05:647][673]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage]
+[2023.06.18-17.55.05:647][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Vaulting/Valut_montage]
+[2023.06.18-17.55.05:668][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto1
+[2023.06.18-17.55.05:668][673]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage_Auto19D05A37D45EB44781695998BE359AAA8.tmp' to 'D:/UE5 project/UE5-Game-Project/Saved/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto1.uasset'
+[2023.06.18-17.55.05:669][673]LogFileHelpers: Auto-saving content packages took 0.625
+[2023.06.18-17.56.55:286][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-17.56.55:311][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-17.56.55:312][606]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-17.56.55:368][606]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-17.56.55:368][606]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montageA1A9722343E69A460D90EB806F0D41A8.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-17.56.55:404][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.02 sec)
+[2023.06.18-17.56.55:407][606]AssetCheck: New page: Asset Save: Valut_montage
+[2023.06.18-17.56.55:407][606]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-18.06.16:440][577]LogViewport: Scene viewport resized to 256x256, mode Windowed.
+[2023.06.18-18.06.49:792][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-18.06.49:826][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-18.06.49:826][448]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.06.49:835][448]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.06.49:845][448]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.06.49:852][448]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.06.49:914][448]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-18.06.49:915][448]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage4126C3284F307C221EFA49B9F9B01611.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-18.06.50:036][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 1.27 sec)
+[2023.06.18-18.06.50:039][448]AssetCheck: New page: Asset Save: Valut_montage
+[2023.06.18-18.06.50:039][448]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-18.15.05:045][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.18-18.15.05:047][497]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.007
+[2023.06.18-18.15.05:047][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Vaulting/Valut_montage] ([1] browsable assets)...
+[2023.06.18-18.15.05:062][497]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage]
+[2023.06.18-18.15.05:062][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Vaulting/Valut_montage]
+[2023.06.18-18.15.05:062][497]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.15.05:069][497]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.15.05:077][497]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.15.05:084][497]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.15.05:141][497]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto2
+[2023.06.18-18.15.05:141][497]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage_Auto2EAA4CAA042A36FAED42DD6AADE3573C4.tmp' to 'D:/UE5 project/UE5-Game-Project/Saved/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto2.uasset'
+[2023.06.18-18.15.05:141][497]LogFileHelpers: Auto-saving content packages took 0.095
+[2023.06.18-18.16.43:835][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-18.16.43:861][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-18.16.43:861][504]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.16.43:871][504]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.16.43:878][504]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.16.43:886][504]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.16.43:964][504]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-18.16.43:965][504]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage821F53BC42BE5E0D5D7DA68401FEB1C1.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-18.16.44:091][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 1.52 sec)
+[2023.06.18-18.16.44:093][504]AssetCheck: New page: Asset Save: Valut_montage
+[2023.06.18-18.16.44:093][504]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-18.17.38:384][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-18.17.38:419][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-18.17.38:419][793]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.17.38:428][793]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.17.38:436][793]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.17.38:442][793]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.17.38:524][793]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-18.17.38:524][793]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montageDF353D8A4BAC2B2EFA084983B1876A20.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-18.17.38:654][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 1.79 sec)
+[2023.06.18-18.17.38:657][793]AssetCheck: New page: Asset Save: Valut_montage
+[2023.06.18-18.17.38:657][793]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-18.25.22:185][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.18-18.25.22:186][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.007
+[2023.06.18-18.25.22:187][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Vaulting/Valut_montage] ([1] browsable assets)...
+[2023.06.18-18.25.22:187][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Vaulting/Valut_montage]
+[2023.06.18-18.25.22:187][918]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.25.22:193][918]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.25.22:202][918]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.25.22:262][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto3
+[2023.06.18-18.25.22:262][918]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage_Auto38E79348C432A3E270DA14AB9425643D2.tmp' to 'D:/UE5 project/UE5-Game-Project/Saved/Autosaves/Game/Animations/Vaulting/Valut_montage_Auto3.uasset'
+[2023.06.18-18.25.22:263][918]LogFileHelpers: Auto-saving content packages took 0.077
+[2023.06.18-18.27.32:641][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-18.27.32:673][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-18.27.32:673][202]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.27.32:747][202]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-18.27.32:748][202]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montage503F81D742B27200DF6C2CAEA686B566.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-18.27.32:776][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.93 sec)
+[2023.06.18-18.27.32:778][202]AssetCheck: New page: Asset Save: Valut_montage
+[2023.06.18-18.27.32:779][202]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
+[2023.06.18-18.28.21:488][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.18-18.28.21:491][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.18-18.28.21:520][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SK_Mannequin" FILE="D:/UE5 project/UE5-Game-Project/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" SILENT=true
+[2023.06.18-18.28.21:945][716]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2023.06.18-18.28.21:946][716]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/SK_Mannequin6EFB8F9E4CFBAB72197CDEB0AD98977F.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2023.06.18-18.28.21:948][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Vaulting/Valut_montage" FILE="D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset" SILENT=true
+[2023.06.18-18.28.21:948][716]AssetCheck: Warning: Valut_montage Motion Warping window in Valut_montage doesn't specify a valid Warp Target Name
+[2023.06.18-18.28.22:033][716]LogSavePackage: Moving output files for package: /Game/Animations/Vaulting/Valut_montage
+[2023.06.18-18.28.22:034][716]LogSavePackage: Moving 'D:/UE5 project/UE5-Game-Project/Saved/Valut_montageE359EC634BF724B159423A80F886C9EC.tmp' to 'D:/UE5 project/UE5-Game-Project/Content/Animations/Vaulting/Valut_montage.uasset'
+[2023.06.18-18.28.22:076][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 584 ms (total: 2.51 sec)
+[2023.06.18-18.28.22:079][716]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.18-18.28.22:079][716]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2023.06.18-18.28.22:079][716]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animations/Vaulting/Valut_montage.Valut_montage
